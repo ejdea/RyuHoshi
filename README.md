@@ -1,2 +1,2 @@
 # RyuHoshi
-Street Fighter: Master of Goju-ryu
+Street Fighter: Master of Ansatsuken
